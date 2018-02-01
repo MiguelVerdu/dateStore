@@ -15,10 +15,10 @@
   "TUTORIAL_SLIDE1_DESCRIPTION": "<b>dateStore</b> es una app donde podras gestionar todas tus citas con profesionales, peluqueros, fisios, etc.",
 
   "TUTORIAL_SLIDE2_TITLE": "Cómo usar dataStore",
-  "TUTORIAL_SLIDE2_DESCRIPTION": "Monta los varios tipos de página que quieras y quita los que no. Hemos incluido muchas estructuras de página comunes en apps móviles, como páginas de inicio de sesión y registro, pestañas, y esta página de tutorial.",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Reserva cita con los diferentes profesionales que tengas agregados, simplemente visita su calendario, encuentra una fecha se ajuste a tus necesidades y espera la confirmación.",
 
   "TUTORIAL_SLIDE3_TITLE": "Empezando",
-  "TUTORIAL_SLIDE3_DESCRIPTION": "¿Necesitas ayuda? Échale un vistazo al README del Super Starter para ver el tutorial completo.",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "¿Necesitas ayuda? Contacta con nosotros en este email: <u>info@dateStore.com <u>",
 
   "SETTINGS_TITLE": "Ajustes",
   "SETTINGS_OPTION1": "Opción 1",
